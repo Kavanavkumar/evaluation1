@@ -15,18 +15,9 @@ int main()
 		case 1:
 			printf("you selected cse.\n");
 			break;
-		case 2 :
-			printf("you selected aiml.\n");
-			break;
-		case 3:
-			printf("you selected ece.\n");
-			break;
-		case 4 :
-			printf("you selected mech.\n");
-			break;
-		default:
-			printf("invalid choice .\n");
 	}
+
 	return 0;
 }
+
 

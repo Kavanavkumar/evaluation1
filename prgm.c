@@ -15,9 +15,13 @@ int main()
 		case 1:
 			printf("you selected cse.\n");
 			break;
+		case 2:
+			printf("you selected aiml.\n");
+			break;
 	}
 
 	return 0;
 }
+
 
 

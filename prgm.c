@@ -18,6 +18,9 @@ int main()
 		case 2:
 			printf("you selected aiml.\n");
 			break;
+case3:
+			printf("you selected ece.\n");
+			breakk;
 	}
 
 	return 0;
